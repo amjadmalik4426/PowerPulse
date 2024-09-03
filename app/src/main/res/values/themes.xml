@@ -1,0 +1,27 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Project1932" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <!-- Define your theme here -->
+    <style name="Theme.WorkOut" parent="Base.Theme.Project1932">
+        <!-- Customize your theme here -->
+        <!-- Example: -->
+        <!-- <item name="colorPrimary">@color/your_primary_color</item> -->
+    </style>
+
+    <style name="Theme.Project1932" parent="Base.Theme.Project1932" />
+
+    <!-- Style for Circle ImageView -->
+    <style name="Style.App.circleImageView" parent="">
+        <item name="shapeAppearance">@style/ShapeAppearanceOverlay.App.circleImageView</item>
+    </style>
+
+    <!-- Shape appearance overlay for Circle ImageView -->
+    <style name="ShapeAppearanceOverlay.App.circleImageView" parent="ShapeAppearance.MaterialComponents.SmallComponent">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">10dp</item>
+    </style>
+</resources>
