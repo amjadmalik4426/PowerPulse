@@ -39,6 +39,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="32dp"
         android:layout_marginTop="24dp"
+        android:textColor="@color/white"
         android:layout_marginEnd="32dp"
         android:text="We are commited to providing a safe and\nsupportive environment for all users.Please\nbe respectful of others and refrain from using\n offensive language or posting harmful content"
         android:textSize="17sp"

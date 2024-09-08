@@ -2,7 +2,8 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
-    <color name="mainColor">#101322</color>
+    <color name="mainColor">#3F51B5</color>
     <color name="orange">#fd511e</color>
-    <color name="darkBlue">#1c213c</color>
+    <color name="darkBlue">#FFFFFF</color>
+    <color name="biscuit">#F5E2C4</color>
 </resources>
